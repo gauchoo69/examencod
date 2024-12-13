@@ -2,7 +2,7 @@
 
 ---
 
- ![diagrama_cod.png](diagrama_cod.png)
+ ![diagrama_cod.png](diagrama_cod.png).
 
 Explica a continación cada apartado del examen
 
